@@ -35,7 +35,7 @@ Este site é uma simulação, inspirada no filme The Batman (2022). Aqui você e
 ---
 <br>
 <p align="center">
-    Esse é o meu primeiros projetos 🖤
+    Esse é o meu primeiros projeto 🖤
 </p>
 
 
