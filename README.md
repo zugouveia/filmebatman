@@ -27,7 +27,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Este site é uma simulação, inspirada no filme The Batman (2022). Aqui você encontra uma experiência imersiva com sinopse, trailer, elenco, fotos e até uma área fictícia para compra de ingressos. Um projeto feito para explorar e aprimorar minhas habilidades em desenvolvimento web! 
 
-- [Acesse o projeto finalizado, online](hhttps://filmebatman.netlify.app)
+- [Acesse o projeto finalizado, online](https://filmebatman.netlify.app)
 
 - [Acesse o projeto finalizado, no github](https://zugouveia.github.io/filmebatman/)
 
